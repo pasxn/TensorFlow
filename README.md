@@ -1,2 +1,2 @@
-# TensorFlow
-# Learning Progress
+# TensorFlow Learning Progress
+-Still working on basics
